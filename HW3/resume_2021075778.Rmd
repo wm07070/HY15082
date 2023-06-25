@@ -1,0 +1,50 @@
+---
+title: "MinGyu Kim(김민규)"
+output:
+  html_document:
+    toc: no
+    toc_float: yes
+    toc_depth: 2
+    theme: cosmo
+    number_sections: no
+
+---
+
+
+<center>학번 : 2021075778</center>
+<center>번호 : 010-9879-1510</center>
+<center>이메일 : wm07070@naver.com </center>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+---
+
+# <span style="font-size: 32px; color: red;">학력</span>
+- 대학교: 한양대학교(2021~) 재학중
+  - 학위: 학사
+  - 전공: 컴퓨터소프트웨어학부
+
+---
+
+# <span style="color:red">보유 기술</span>
+
+- C/C++
+- Python(numpy,matplotlib,sklearn )
+- Computer Graphics(OpenGL)
+- Frontend : HTML/CSS/JS/TS/Next.js/React
+
+---
+
+# <span style="color:red">교내 활동</span>
+
+- Forif(개발 중앙 동아리)
+  - 웹개발(백엔드 개발자와 협업하여 사이트 배포및 관리중)
+
+- IceWall(과 보안 동아리)
+  - 웹 해킹 스터디
+  - 웹 개발 스터디
+  
+
+
