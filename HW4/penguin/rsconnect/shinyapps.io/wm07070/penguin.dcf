@@ -1,0 +1,13 @@
+name: penguin
+title: penguin
+username:
+account: wm07070
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9353598
+bundleId: 7379486
+url: https://wm07070.shinyapps.io/penguin/
+when: 1687519993.89499
+lastSyncTime: 1687519993.895
+asMultiple: FALSE
+asStatic: FALSE
